@@ -1,23 +1,13 @@
 [
   {
     "id": 1,
-    "title": "Наруто",
+    "title": "Восхождение героя щита 4",
     "description": "История о ниндзя-подростке.",
-    "image": "https://example.com/naruto.jpg",
+    "image": "https://shikimori.one/uploads/poster/animes/57907/0a6bbba4f57b7d643782190e8e7b7e82.jpeg",
     "episodes": [
-      {"number": 1, "video": "https://vk.com/video-12345678_456239075"},
-      {"number": 2, "video": "https://vk.com/video-12345678_456239076"}
+      {"number": 1, "video": "https://vk.com/video-231399388_456239023"},
     ],
     "dubber": "VexeraDubbing"
   },
   {
-    "id": 2,
-    "title": "Блич",
-    "description": "Подросток Ичиго обретает силы синигами.",
-    "image": "https://example.com/bleach.jpg",
-    "episodes": [
-      {"number": 1, "video": "https://vk.com/video-12345678_456239077"}
-    ],
-    "dubber": "VexeraDubbing"
-  }
-]
+    
