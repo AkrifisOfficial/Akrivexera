@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Наруто",
+    "description": "История о ниндзя-подростке.",
+    "image": "https://example.com/naruto.jpg",
+    "episodes": [
+      {"number": 1, "video": "https://vk.com/video-12345678_456239075"},
+      {"number": 2, "video": "https://vk.com/video-12345678_456239076"}
+    ],
+    "dubber": "VexeraDubbing"
+  },
+  {
+    "id": 2,
+    "title": "Блич",
+    "description": "Подросток Ичиго обретает силы синигами.",
+    "image": "https://example.com/bleach.jpg",
+    "episodes": [
+      {"number": 1, "video": "https://vk.com/video-12345678_456239077"}
+    ],
+    "dubber": "VexeraDubbing"
+  }
+]
